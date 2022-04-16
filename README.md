@@ -1,6 +1,8 @@
+![MasterHead](https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_960_720.jpg)
+
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
-- <img src="code.gif" align="right" width="400" alt="dharmendra841434" />
+ <img src="Images/code-2.gif" align="right" width="400" alt="dharmendra841434" />
 
 - 🌱 I’m currently learning **Flutter**
 
