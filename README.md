@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.pixabay.com/photo/2019/01/30/07/45/web-3963945_960_720.jpg)
+![MasterHead](https://github.com/dharmendra841434/dharmendra841434/blob/main/Images/banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
