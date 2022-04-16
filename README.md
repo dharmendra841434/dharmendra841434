@@ -1,5 +1,3 @@
-![MasterHead](https://github.com/dharmendra841434/dharmendra841434/blob/main/Images/banner.png?raw=true)
-
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
  <img src="Images/code-2.gif" align="right" width="400" alt="dharmendra841434" />
