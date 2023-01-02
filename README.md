@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ExpressJS**
 
-- 👨‍💻 All of my projects are available at [https://dharmendrakumar.herokuapp.com/](https://dharmendrakumar.herokuapp.com/)
+- 👨‍💻 All of my projects are available at https://dharmendra-portfolio-website.vercel.app/
 
 - 💬 Ask me about **React,React-native**
 
