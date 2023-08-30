@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullStack developer from India</h3>
  <img src="Images/code-2.gif" align="right" width="400" alt="dharmendra841434" />
 
-- 🌱 I’m currently learning **ExpressJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at https://dharmendra-portfolio-website.vercel.app/
 
