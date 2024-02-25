@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at https://dharmendra-portfolio-website.vercel.app/
+- 👨‍💻 All of my projects are available at https://www.developer-dharmendra.tech/
 
 - 💬 Ask me about **React,React-native**
 
-- 📫 How to reach me **dhk7283013741@gmail.com**
+- 📫 How to reach me **dev.dharmendra@gmail.com**
 
 - ⚡ Fun fact **i thunk i am funny 😆😆**
 
