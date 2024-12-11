@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at https://www.developer-dharmendra.tech/
+- 👨‍💻 All of my projects are available at https://www.developer-dharmendra.online/
 
 - 💬 Ask me about **React,React-native**
 
